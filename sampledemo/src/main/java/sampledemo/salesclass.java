@@ -6,4 +6,8 @@ public class salesclass {
 	  for(int num:arr)
 		  System.out.println(arr);
   }
+  public void print() {
+	  System.out.println("print all array numbers");
+	  display();
+  }
 }
